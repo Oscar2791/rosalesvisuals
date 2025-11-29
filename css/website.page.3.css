@@ -1,7 +1,6 @@
 /* This is a comment */
 
 
-/* Adjusted css code */
 body {          
   font-family: Arial, Verdana, Helvetica, sans-serif; 
   color: black; 
@@ -11,7 +10,7 @@ body {
 
 p {
   text-align: left;
-  line-height: 1.6; /* better spacing than <br/> */
+  line-height: 1.6; 
   margin-bottom: 20px;
 }
 
